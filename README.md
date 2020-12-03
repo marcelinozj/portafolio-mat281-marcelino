@@ -12,6 +12,7 @@
 
 ## Portafolio Personal
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/{marcelinozj}/mat281_portfolio_template/master?urlpath=lab)
+Este no funciona
 
 ### Setup
 
@@ -21,6 +22,6 @@ Para aquellos usuarios de Windows que quieran sacar partido, se recomienda mirar
 
 #binder head
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcelinozj/portafolio-mat281-marcelino/HEAD)
-
+este sí funciona
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/marcelinozj/portafolio-mat281-marcelino/HEAD
