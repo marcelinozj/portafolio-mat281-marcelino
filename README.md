@@ -19,8 +19,14 @@ Las instrucciones de uso se encuentran en [este](setup.md) siguiente archivo.
 
 Para aquellos usuarios de Windows que quieran sacar partido, se recomienda mirar también [este](wsl_ds_toolkit.md) archivo, mostrando un entorno de trabajo con WSL.
 
-#binder
+#binder head
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcelinozj/portafolio-mat281-marcelino/HEAD)
 
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/marcelinozj/portafolio-mat281-marcelino/HEAD
+
+#binder tarea
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcelinozj/portafolio-mat281-marcelino/blob/master/homeworks/tarea_01_arreglada/tarea_01.ipynb/HEAD)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/marcelinozj/portafolio-mat281-marcelino/blob/master/homeworks/tarea_01_arreglada/tarea_01.ipynb/HEAD
