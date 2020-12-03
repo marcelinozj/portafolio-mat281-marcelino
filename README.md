@@ -24,9 +24,3 @@ Para aquellos usuarios de Windows que quieran sacar partido, se recomienda mirar
 
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/marcelinozj/portafolio-mat281-marcelino/HEAD
-
-#binder tarea
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcelinozj/portafolio-mat281-marcelino/blob/master/homeworks/tarea_01_arreglada/tarea_01.ipynb/HEAD)
-
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/marcelinozj/portafolio-mat281-marcelino/blob/master/homeworks/tarea_01_arreglada/tarea_01.ipynb/HEAD
